@@ -1,0 +1,69 @@
+{
+  "maps": {
+    "潮汐监狱": {
+      "bagua": {
+        "乾": { "direction": "西北", "element": "金", "lootBonus": 2.2, "danger": 8, "meaning": "核心区域，高风险高回报", "fortune": "大吉带险" },
+        "坤": { "direction": "西南", "element": "土", "lootBonus": 1.0, "danger": 3, "meaning": "边缘安全区域", "fortune": "平" },
+        "震": { "direction": "东", "element": "木", "lootBonus": 1.8, "danger": 7, "meaning": "工业区，中高价值", "fortune": "吉中带险" },
+        "巽": { "direction": "东南", "element": "木", "lootBonus": 1.2, "danger": 4, "meaning": "外围建筑群", "fortune": "平" },
+        "坎": { "direction": "北", "element": "水", "lootBonus": 2.0, "danger": 8, "meaning": "水道系统，危险但富饶", "fortune": "大吉带险" },
+        "离": { "direction": "南", "element": "火", "lootBonus": 1.1, "danger": 3, "meaning": "撤离点附近", "fortune": "吉" },
+        "艮": { "direction": "东北", "element": "土", "lootBonus": 1.4, "danger": 5, "meaning": "中等资源区", "fortune": "吉中带险" },
+        "兑": { "direction": "西", "element": "金", "lootBonus": 0.9, "danger": 2, "meaning": "最安全区域", "fortune": "平" },
+        "中宫": { "direction": "中央", "element": "土", "lootBonus": 1.0, "danger": 5, "meaning": "监狱中心区域", "fortune": "平" }
+      }
+    },
+    "航天基地": {
+      "bagua": {
+        "乾": { "direction": "西北", "element": "金", "lootBonus": 2.5, "danger": 9, "meaning": "总裁室，最高价值", "fortune": "大吉带险" },
+        "坤": { "direction": "西南", "element": "土", "lootBonus": 0.8, "danger": 2, "meaning": "外围安全区", "fortune": "平" },
+        "震": { "direction": "东", "element": "木", "lootBonus": 2.0, "danger": 8, "meaning": "核心区实验室", "fortune": "大吉带险" },
+        "巽": { "direction": "东南", "element": "木", "lootBonus": 1.5, "danger": 6, "meaning": "中控楼", "fortune": "吉中带险" },
+        "坎": { "direction": "北", "element": "水", "lootBonus": 1.8, "danger": 7, "meaning": "工业区", "fortune": "吉中带险" },
+        "离": { "direction": "南", "element": "火", "lootBonus": 1.0, "danger": 3, "meaning": "宿舍区", "fortune": "平" },
+        "艮": { "direction": "东北", "element": "土", "lootBonus": 1.3, "danger": 5, "meaning": "发射区", "fortune": "吉中带险" },
+        "兑": { "direction": "西", "element": "金", "lootBonus": 0.9, "danger": 2, "meaning": "撤离区域", "fortune": "平" },
+        "中宫": { "direction": "中央", "element": "土", "lootBonus": 1.2, "danger": 6, "meaning": "航天基地核心", "fortune": "吉中带险" }
+      }
+    },
+    "巴克什": {
+      "bagua": {
+        "乾": { "direction": "西北", "element": "金", "lootBonus": 2.3, "danger": 9, "meaning": "巴别塔，极高风险", "fortune": "大吉带险" },
+        "坤": { "direction": "西南", "element": "土", "lootBonus": 0.9, "danger": 2, "meaning": "外围民居", "fortune": "平" },
+        "震": { "direction": "东", "element": "木", "lootBonus": 2.1, "danger": 8, "meaning": "皇家博物馆", "fortune": "大吉带险" },
+        "巽": { "direction": "东南", "element": "木", "lootBonus": 1.4, "danger": 5, "meaning": "大浴场", "fortune": "吉中带险" },
+        "坎": { "direction": "北", "element": "水", "lootBonus": 1.6, "danger": 6, "meaning": "樱桃小镇", "fortune": "吉中带险" },
+        "离": { "direction": "南", "element": "火", "lootBonus": 1.2, "danger": 4, "meaning": "蓝调旅馆", "fortune": "平" },
+        "艮": { "direction": "东北", "element": "土", "lootBonus": 1.1, "danger": 3, "meaning": "边缘地带", "fortune": "吉" },
+        "兑": { "direction": "西", "element": "金", "lootBonus": 0.8, "danger": 2, "meaning": "最安全撤离区", "fortune": "平" },
+        "中宫": { "direction": "中央", "element": "土", "lootBonus": 1.1, "danger": 4, "meaning": "巴克什市中心", "fortune": "平" }
+      }
+    },
+    "长弓溪谷": {
+      "bagua": {
+        "乾": { "direction": "西北", "element": "金", "lootBonus": 2.2, "danger": 8, "meaning": "雷达站，信号屏蔽区", "fortune": "大吉带险" },
+        "坤": { "direction": "西南", "element": "土", "lootBonus": 0.9, "danger": 2, "meaning": "荒废村庄", "fortune": "平" },
+        "震": { "direction": "东", "element": "木", "lootBonus": 2.0, "danger": 8, "meaning": "钻石皇后酒店", "fortune": "大吉带险" },
+        "巽": { "direction": "东南", "element": "木", "lootBonus": 1.5, "danger": 6, "meaning": "阿米亚小镇", "fortune": "吉中带险" },
+        "坎": { "direction": "北", "element": "水", "lootBonus": 1.3, "danger": 5, "meaning": "超星车站", "fortune": "吉中带险" },
+        "离": { "direction": "南", "element": "火", "lootBonus": 1.1, "danger": 3, "meaning": "蓝港码头", "fortune": "吉" },
+        "艮": { "direction": "东北", "element": "土", "lootBonus": 1.0, "danger": 3, "meaning": "加尔比旧址", "fortune": "平" },
+        "兑": { "direction": "西", "element": "金", "lootBonus": 0.8, "danger": 2, "meaning": "沙径牧场", "fortune": "平" },
+        "中宫": { "direction": "中央", "element": "土", "lootBonus": 1.0, "danger": 4, "meaning": "溪谷中心地带", "fortune": "平" }
+      }
+    },
+    "零号大坝": {
+      "bagua": {
+        "乾": { "direction": "西北", "element": "金", "lootBonus": 2.4, "danger": 9, "meaning": "行政辖区，首领区域", "fortune": "大吉带险" },
+        "坤": { "direction": "西南", "element": "土", "lootBonus": 0.8, "danger": 2, "meaning": "游客中心", "fortune": "平" },
+        "震": { "direction": "东", "element": "木", "lootBonus": 1.6, "danger": 6, "meaning": "主变电站", "fortune": "吉中带险" },
+        "巽": { "direction": "东南", "element": "木", "lootBonus": 1.4, "danger": 5, "meaning": "水泥厂", "fortune": "吉中带险" },
+        "坎": { "direction": "北", "element": "水", "lootBonus": 1.0, "danger": 3, "meaning": "军营", "fortune": "平" },
+        "离": { "direction": "南", "element": "火", "lootBonus": 1.2, "danger": 4, "meaning": "集装箱区", "fortune": "平" },
+        "艮": { "direction": "东北", "element": "土", "lootBonus": 1.1, "danger": 3, "meaning": "外围工地", "fortune": "吉" },
+        "兑": { "direction": "西", "element": "金", "lootBonus": 0.9, "danger": 2, "meaning": "安全撤离区", "fortune": "平" },
+        "中宫": { "direction": "中央", "element": "土", "lootBonus": 1.3, "danger": 5, "meaning": "大坝控制中心", "fortune": "吉中带险" }
+      }
+    }
+  }
+}

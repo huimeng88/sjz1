@@ -1,0 +1,280 @@
+{
+  "containers": {
+    "工具盒": {
+      "name": "工具盒",
+      "color": "灰色",
+      "shape": "方形",
+      "element": "金",
+      "baseDropRate": 0.75,
+      "rarity": "common",
+      "description": "最常见的基础容器"
+    },
+    "大工具盒": {
+      "name": "大工具盒",
+      "color": "灰色",
+      "shape": "长方形",
+      "element": "金",
+      "baseDropRate": 1.0,
+      "rarity": "uncommon",
+      "description": "容量更大的工具存储容器"
+    },
+    "航空储物箱": {
+      "name": "航空储物箱",
+      "color": "银色",
+      "shape": "长方形",
+      "element": "金",
+      "baseDropRate": 1.2,
+      "rarity": "rare",
+      "description": "高价值军用容器"
+    },
+    "高级储物箱": {
+      "name": "高级储物箱",
+      "color": "银色",
+      "shape": "长方形",
+      "element": "金",
+      "baseDropRate": 1.4,
+      "rarity": "epic",
+      "description": "顶级军用储物容器"
+    },
+    "小保险箱": {
+      "name": "小保险箱",
+      "color": "黑色",
+      "shape": "方形",
+      "element": "水",
+      "baseDropRate": 1.0,
+      "rarity": "uncommon",
+      "description": "安全性较高的存储容器"
+    },
+    "保险柜": {
+      "name": "保险柜",
+      "color": "黑色",
+      "shape": "立方形",
+      "element": "水",
+      "baseDropRate": 1.5,
+      "rarity": "epic",
+      "description": "最高级别的安全容器"
+    },
+    "电脑": {
+      "name": "电脑",
+      "color": "黑色",
+      "shape": "方形",
+      "element": "火",
+      "baseDropRate": 0.8,
+      "rarity": "common",
+      "description": "台式电脑主机"
+    },
+    "电脑机箱": {
+      "name": "电脑机箱",
+      "color": "黑色",
+      "shape": "长方形",
+      "element": "火",
+      "baseDropRate": 0.9,
+      "rarity": "uncommon",
+      "description": "包含电子设备的容器"
+    },
+    "服务器": {
+      "name": "服务器",
+      "color": "银色",
+      "shape": "长方形",
+      "element": "火",
+      "baseDropRate": 1.3,
+      "rarity": "rare",
+      "description": "高价值服务器设备"
+    },
+    "抽屉柜": {
+      "name": "抽屉柜",
+      "color": "棕色",
+      "shape": "长方形",
+      "element": "木",
+      "baseDropRate": 0.8,
+      "rarity": "common",
+      "description": "常见的办公家具容器"
+    },
+    "工具柜": {
+      "name": "工具柜",
+      "color": "灰色",
+      "shape": "长方形",
+      "element": "金",
+      "baseDropRate": 1.1,
+      "rarity": "uncommon",
+      "description": "专业工具存储柜"
+    },
+    "储物柜": {
+      "name": "储物柜",
+      "color": "蓝色",
+      "shape": "长方形",
+      "element": "水",
+      "baseDropRate": 0.9,
+      "rarity": "common",
+      "description": "通用储物柜"
+    },
+    "医疗包": {
+      "name": "医疗包",
+      "color": "白色",
+      "shape": "方形",
+      "element": "土",
+      "baseDropRate": 0.9,
+      "rarity": "common",
+      "description": "便携式医疗用品包"
+    },
+    "医疗物资堆": {
+      "name": "医疗物资堆",
+      "color": "白色",
+      "shape": "圆形",
+      "element": "土",
+      "baseDropRate": 1.1,
+      "rarity": "uncommon",
+      "description": "大量医疗用品堆积"
+    },
+    "武器箱": {
+      "name": "武器箱",
+      "color": "绿色",
+      "shape": "长方形",
+      "element": "金",
+      "baseDropRate": 1.2,
+      "rarity": "rare",
+      "description": "军用武器存储箱"
+    },
+    "大武器箱": {
+      "name": "大武器箱",
+      "color": "绿色",
+      "shape": "长方形",
+      "element": "金",
+      "baseDropRate": 1.4,
+      "rarity": "epic",
+      "description": "大型军用武器存储箱"
+    },
+    "弹药箱": {
+      "name": "弹药箱",
+      "color": "绿色",
+      "shape": "长方形",
+      "element": "金",
+      "baseDropRate": 1.3,
+      "rarity": "rare",
+      "description": "军用弹药存储容器"
+    },
+    "补给箱": {
+      "name": "补给箱",
+      "color": "棕色",
+      "shape": "方形",
+      "element": "土",
+      "baseDropRate": 1.0,
+      "rarity": "common",
+      "description": "通用补给存储容器"
+    },
+    "装备箱": {
+      "name": "装备箱",
+      "color": "黑色",
+      "shape": "长方形",
+      "element": "金",
+      "baseDropRate": 1.4,
+      "rarity": "epic",
+      "description": "高级装备专用容器"
+    },
+    "旅行袋": {
+      "name": "旅行袋",
+      "color": "棕色",
+      "shape": "圆形",
+      "element": "土",
+      "baseDropRate": 0.7,
+      "rarity": "common",
+      "description": "便携式旅行包"
+    },
+    "手提箱": {
+      "name": "手提箱",
+      "color": "黑色",
+      "shape": "长方形",
+      "element": "水",
+      "baseDropRate": 1.0,
+      "rarity": "uncommon",
+      "description": "商务手提箱"
+    },
+    "实验服": {
+      "name": "实验服",
+      "color": "白色",
+      "shape": "长方形",
+      "element": "金",
+      "baseDropRate": 1.1,
+      "rarity": "uncommon",
+      "description": "科研实验用品"
+    },
+    "衣服": {
+      "name": "衣服",
+      "color": "蓝色",
+      "shape": "圆形",
+      "element": "水",
+      "baseDropRate": 0.6,
+      "rarity": "common",
+      "description": "普通衣物"
+    }
+  },
+  "colorFortune": {
+    "黑色": {
+      "element": "水",
+      "bonus": 1.1,
+      "meaning": "深沉稳重，利于藏宝"
+    },
+    "白色": {
+      "element": "金",
+      "bonus": 1.0,
+      "meaning": "纯净明亮，中性平和"
+    },
+    "红色": {
+      "element": "火",
+      "bonus": 1.2,
+      "meaning": "热情奔放，利于爆发"
+    },
+    "绿色": {
+      "element": "木",
+      "bonus": 1.1,
+      "meaning": "生机勃勃，利于成长"
+    },
+    "黄色": {
+      "element": "土",
+      "bonus": 1.0,
+      "meaning": "稳重厚实，利于积累"
+    },
+    "蓝色": {
+      "element": "水",
+      "bonus": 1.1,
+      "meaning": "深邃智慧，利于探索"
+    },
+    "银色": {
+      "element": "金",
+      "bonus": 1.2,
+      "meaning": "贵重精致，利于财运"
+    },
+    "灰色": {
+      "element": "土",
+      "bonus": 0.9,
+      "meaning": "朴实无华，平淡无奇"
+    },
+    "棕色": {
+      "element": "土",
+      "bonus": 1.0,
+      "meaning": "自然朴素，稳定可靠"
+    }
+  },
+  "shapeFortune": {
+    "方形": {
+      "element": "土",
+      "bonus": 1.0,
+      "meaning": "四平八稳，基础扎实"
+    },
+    "长方形": {
+      "element": "木",
+      "bonus": 1.1,
+      "meaning": "延展向上，利于发展"
+    },
+    "圆形": {
+      "element": "金",
+      "bonus": 1.2,
+      "meaning": "圆满完整，利于聚财"
+    },
+    "立方形": {
+      "element": "土",
+      "bonus": 1.1,
+      "meaning": "立体稳固，深藏不露"
+    }
+  }
+}

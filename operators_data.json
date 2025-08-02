@@ -1,0 +1,368 @@
+{
+  "operators": [
+    {
+      "codename": "红狼",
+      "realname": "凯·席尔瓦",
+      "birthday": "2006-04-29",
+      "position": "突击位",
+      "element": "火",
+      "luckyWeapon": "突击步枪",
+      "skills": {
+        "primary": {
+          "name": "动力外骨骼",
+          "description": "激活腕部启动器让外骨骼功率超载，加快冲刺移动速度。击倒敌人时会恢复生命值并增加持续时间。"
+        },
+        "tactical1": {
+          "name": "三联装手炮",
+          "description": "装备三联装发射器，通过食指拉环发射爆炸榴弹。命中载具时可吸附在载具上。"
+        },
+        "tactical2": {
+          "name": "突破型烟雾弹",
+          "description": "低装药型突破用烟雾弹，爆炸后生成会快速消散的烟雾。"
+        },
+        "passive": {
+          "name": "战术滑铲",
+          "description": "利用外骨骼进行快速战术滑铲。唯一可以滑铲的干员。"
+        }
+      }
+    },
+    {
+      "codename": "威龙",
+      "realname": "王宇昊",
+      "birthday": "2008-05-11",
+      "position": "突击位",
+      "element": "土",
+      "luckyWeapon": "冲锋枪",
+      "skills": {
+        "primary": {
+          "name": "虎蹲炮",
+          "description": "发射压缩空气弹，爆炸时将附近敌人击倒。"
+        },
+        "tactical1": {
+          "name": "动力推进",
+          "description": "激活动能辅助装置，朝指定方向进行推进。击倒敌人时可减少冷却时间。"
+        },
+        "tactical2": {
+          "name": "磁吸炸弹",
+          "description": "投射吸附地面炮弹，计时结束后爆炸。"
+        },
+        "passive": {
+          "name": "动能辅助系统",
+          "description": "从高处坠落时减伤并增速。"
+        }
+      }
+    },
+    {
+      "codename": "无名",
+      "realname": "埃利·德·蒙贝尔",
+      "birthday": "2010-10-30",
+      "position": "突击位",
+      "element": "金",
+      "luckyWeapon": "霰弹枪",
+      "skills": {
+        "primary": {
+          "name": "重伤延滞",
+          "description": "被无名击伤的敌人需要花更长时间使用药品，被击倒的敌人也需要更长的时间才能被救起。"
+        },
+        "tactical1": {
+          "name": "旋刃飞行器",
+          "description": "旋刃飞行器会锁定前方的敌人，锁定后丢出即可自动追踪敌人并爆开，释放内部的刀片，伤害并减速敌人，同时附加流血状态。"
+        },
+        "tactical2": {
+          "name": "突破型闪光弹",
+          "description": "向前投掷一颗特制的突破型闪光弹，该闪光弹会在接触到墙体后短时间内爆炸，对所有面朝闪光的附近敌人进行闪光震撼。"
+        },
+        "passive": {
+          "name": "静默潜袭",
+          "description": "启动声波干扰器与信号干扰器，缩小自身移动时的声音传播范围，同时使敌方的侦察道具无法侦察到无名的具体位置。"
+        }
+      }
+    },
+    {
+      "codename": "疾风",
+      "realname": "克莱尔·安·拜尔斯",
+      "birthday": "2006-03-27",
+      "position": "突击位",
+      "element": "木",
+      "luckyWeapon": "突击步枪",
+      "skills": {
+        "primary": {
+          "name": "爆发型辅助脊椎",
+          "description": "被子弹击中或有子弹从身边飞过时增加移动速度，常驻加速游泳效果。"
+        },
+        "tactical1": {
+          "name": "战术翻滚",
+          "description": "借助背部的辅助脊椎可以进行8个方向的快速翻滚，翻滚时会激活辅助脊椎，增加移动速度。"
+        },
+        "tactical2": {
+          "name": "钻墙电刺",
+          "description": "投掷电钻，可穿透掩体发射导电粉末并释放电击，电击可以麻痹敌人并击飞敌人手中的武器。"
+        },
+        "passive": {
+          "name": "紧急回避装置",
+          "description": "原地发射锚点，并通过安全绳连结身体，再次激活可通过安全绳将自己拉回锚点。技能激活期间若受到致命伤害，返回锚点可进行自救。"
+        }
+      }
+    },
+    {
+      "codename": "蜂医",
+      "realname": "罗伊·斯米",
+      "birthday": "2008-02-23",
+      "position": "支援位",
+      "element": "水",
+      "luckyWeapon": "激素枪",
+      "skills": {
+        "primary": {
+          "name": "激素枪",
+          "description": "装备发射追踪子弹的激素枪，可缓慢治疗友军并抑制其疼痛感受。长按技能键向自身注射。"
+        },
+        "tactical1": {
+          "name": "烟幕",
+          "description": "控制手势感应无人机向前飞行并喷射烟幕。长按开火键引导无人机转向。"
+        },
+        "tactical2": {
+          "name": "蜂巢科技烟雾弹",
+          "description": "投掷蜂巢烟雾弹，烟雾被激素枪命中时可被染色为治疗烟雾。"
+        },
+        "passive": {
+          "name": "高效救援",
+          "description": "利用激素枪进行更加灵活的倒地救援，并且为被救者恢复更多生命值。烽火地带中能够移除血量上限减少的负面效果。"
+        }
+      }
+    },
+    {
+      "codename": "蛊",
+      "realname": "佐娅·庞琴科娃",
+      "birthday": "2002-08-08",
+      "position": "支援位",
+      "element": "金",
+      "luckyWeapon": "轻机枪",
+      "skills": {
+        "primary": {
+          "name": "\"流荧\"集群系统",
+          "description": "释放无人机群，短暂激活路线上队友的肾上腺素，并干扰路线上敌方听觉、视觉、降低血量上限。"
+        },
+        "tactical1": {
+          "name": "肾上腺素激活",
+          "description": "释放无人机，为身边的友方进行增益，提高友方的操控速度，在增益期间参与击杀或助攻将增强下次增益的强度。"
+        },
+        "tactical2": {
+          "name": "致盲毒雾",
+          "description": "掷出一枚致盲瓦斯弹，可以让范围内的敌人受到致盲效果。"
+        },
+        "passive": {
+          "name": "高效治疗",
+          "description": "缩短身边队友使用消耗品的时间，以及受伤后开始恢复所需时间。"
+        }
+      }
+    },
+    {
+      "codename": "牧羊人",
+      "realname": "泰瑞·缪萨",
+      "birthday": "2001-09-02",
+      "position": "工程位",
+      "element": "金",
+      "luckyWeapon": "喷枪",
+      "skills": {
+        "primary": {
+          "name": "声波震慑",
+          "description": "向前部署声波无人机，压制敌方，并影响声压减少敌方武器射速。无人机会摧毁与其共振的敌方声波设备，并干扰电子侦察设备。长按技能键可以驻守模式原地部署无人机。"
+        },
+        "tactical1": {
+          "name": "声波陷阱",
+          "description": "部署可黏着在硬表面的声波陷阱，触发时对范围内的敌人造成伤害和减速效果。"
+        },
+        "tactical2": {
+          "name": "强化型破片手雷",
+          "description": "防御型破片手雷，能较好地破坏护甲和裸露的四肢。"
+        },
+        "passive": {
+          "name": "减振防御",
+          "description": "利用手部设备输出反相位声波，降低受到的爆炸冲击伤害。"
+        }
+      }
+    },
+    {
+      "codename": "深蓝",
+      "realname": "阿列克谢·彼得洛夫",
+      "birthday": "1990-07-22",
+      "position": "工程位",
+      "element": "火",
+      "luckyWeapon": "防爆盾",
+      "skills": {
+        "primary": {
+          "name": "防爆套装",
+          "description": "可以装备防爆盾，大幅降低受到的所有伤害，防爆盾可以击倒敌人或击回投掷物。"
+        },
+        "tactical1": {
+          "name": "多功能钩抓枪",
+          "description": "发射钩爪，命中后可以拉回敌人、倒地队友、装备箱，要注意钩爪枪的绳索可以被破坏。"
+        },
+        "tactical2": {
+          "name": "刀片刺网手雷",
+          "description": "释放一个刀片刺网手雷，落地后生成刀片刺网，敌人触碰时会减速、受伤并且发出声音。要注意刀片刺网可以被爆炸和近战摧毁。"
+        },
+        "passive": {
+          "name": "后方保护",
+          "description": "防爆盾在未使用时会挂在角色后部，抵挡从后方射来的子弹。"
+        }
+      }
+    },
+    {
+      "codename": "乌鲁鲁",
+      "realname": "大卫·费莱尔",
+      "birthday": "1995-04-25",
+      "position": "工程位",
+      "element": "土",
+      "luckyWeapon": "巡飞弹",
+      "skills": {
+        "primary": {
+          "name": "巡飞弹",
+          "description": "开镜发射一枚巡飞弹，爆炸散射出四枚炸弹。"
+        },
+        "tactical1": {
+          "name": "速凝掩体",
+          "description": "可以快速凝固混凝土，形成一堵墙防御。"
+        },
+        "tactical2": {
+          "name": "复合型燃烧弹",
+          "description": "向地面撒一片火，可以迅速摧毁掩体。"
+        },
+        "passive": {
+          "name": "久经沙场",
+          "description": "对自身骨折以及兵种装备造成的减速更有抗性。"
+        }
+      }
+    },
+    {
+      "codename": "露娜",
+      "realname": "金卢娜",
+      "birthday": "2005-09-12",
+      "position": "侦查位",
+      "element": "金",
+      "luckyWeapon": "弓箭",
+      "skills": {
+        "primary": {
+          "name": "侦查箭矢",
+          "description": "使用弓射出侦查箭矢，暴露箭矢下方的敌人，并在轨迹上留下探测移动生物的微型传感器。"
+        },
+        "tactical1": {
+          "name": "电击箭矢",
+          "description": "使用弓射出电击箭矢，箭头产生的电流会持续造成伤害。"
+        },
+        "tactical2": {
+          "name": "强化型破片手雷",
+          "description": "防御型破片手雷，能较好地破坏护甲和裸露的四肢。"
+        },
+        "passive": {
+          "name": "敌情分析",
+          "description": "受到露娜伤害的敌方目标会被短暂标记。"
+        }
+      }
+    },
+    {
+      "codename": "骇爪",
+      "realname": "麦晓雯",
+      "birthday": "2013-11-16",
+      "position": "侦查位",
+      "element": "水",
+      "luckyWeapon": "侦察电台",
+      "skills": {
+        "primary": {
+          "name": "信息破译器",
+          "description": "可以扫描前方60m最多六个敌方电子信号，并在隐形眼镜显示这些信号的追踪轨迹线。"
+        },
+        "tactical1": {
+          "name": "闪光巡飞器",
+          "description": "丢出向前飞行的巡飞器，用闪光灯致盲范围内的敌人。"
+        },
+        "tactical2": {
+          "name": "数据飞刃",
+          "description": "投掷数据飞刀，停止时会让附近10m的电子设备并使其暂时失效。直接命中敌人时会造成大量伤害。"
+        },
+        "passive": {
+          "name": "隐匿消声",
+          "description": "静步走路和蹲下速度更快，声音更小。"
+        }
+      }
+    }
+  ],
+  "armorSystem": {
+    "levels": [
+      {
+        "level": 1,
+        "color": "白色",
+        "protection": "基础防护",
+        "description": "最低级防具，提供基础防护能力"
+      },
+      {
+        "level": 2,
+        "color": "绿色",
+        "protection": "轻度防护",
+        "description": "轻度防护，适合快速机动作战"
+      },
+      {
+        "level": 3,
+        "color": "蓝色",
+        "protection": "中等防护",
+        "description": "中等防护能力，平衡防护与机动性"
+      },
+      {
+        "level": 4,
+        "color": "紫色",
+        "protection": "高级防护",
+        "description": "高级防护，能抵御大部分常规武器"
+      },
+      {
+        "level": 5,
+        "color": "金色",
+        "protection": "顶级防护",
+        "description": "顶级防护能力，极高的生存保障"
+      },
+      {
+        "level": 6,
+        "color": "红色",
+        "protection": "传说防护",
+        "description": "传说级防具，提供最强防护能力"
+      }
+    ],
+    "types": [
+      "听力防护",
+      "防御防护"
+    ]
+  },
+  "bulletSystem": {
+    "levels": [
+      {
+        "level": 1,
+        "color": "白色",
+        "penetration": "低穿透",
+        "description": "基础子弹，对低级防具有效"
+      },
+      {
+        "level": 2,
+        "color": "绿色",
+        "penetration": "轻度穿透",
+        "description": "轻度穿透能力，适合对付轻装敌人"
+      },
+      {
+        "level": 3,
+        "color": "蓝色",
+        "penetration": "中等穿透",
+        "description": "中等穿透能力，平衡伤害与穿透"
+      },
+      {
+        "level": 4,
+        "color": "紫色",
+        "penetration": "高级穿透",
+        "description": "高级穿透能力，能穿透大部分防具"
+      },
+      {
+        "level": 5,
+        "color": "金色",
+        "penetration": "顶级穿透",
+        "description": "顶级穿透能力，对所有防具都有效"
+      }
+    ]
+  }
+}
